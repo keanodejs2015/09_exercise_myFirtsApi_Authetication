@@ -7,7 +7,7 @@ You should now make the api use authetication.
 
 * All routes exept the /products and /products/:id should only be accessable to autheticated users.
 * There should be 2 types of users "admin" and "user"
-	* "admin" should be able to do everything while "user" not should be able to 
+	* "admin" should be able to do everything while "user" should be able to everything exept
 		* create, delete and update users
 
 ## Instalation
