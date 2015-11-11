@@ -1,7 +1,7 @@
 # 09 Exercise My First Api Authetication 
 
-Pull this to your local computer and do the exercise in this.
-Or cary on with the solution you have done yourself last time.
+Pull this to your local computer and do the exercise.
+Or continue with the solution you have done yourself last time.
 
 You should now make the api use authetication.
 
